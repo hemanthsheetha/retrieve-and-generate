@@ -1,6 +1,6 @@
 # Retrieve and Generate
 
-A RAG (Retrieval-Augmented Generation) application with FastAPI and Streamlit for document processing and question answering.
+Built as a half-day prototype to explore RAG end to end. Now being upgraded toward a production-style service.
 
 ## Installation
 
